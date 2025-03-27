@@ -1,0 +1,1140 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.18f1 (d29bea25151d) revision 13802474'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'ru' Physical Memory: 16243 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/UnityGames/GameForWork
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55734
+Successfully changed project path to: C:/UnityGames/GameForWork
+C:/UnityGames/GameForWork
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20556] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 963134151 [EditorId] 963134151 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-VVPU9ET) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [20556] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 963134151 [EditorId] 963134151 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-VVPU9ET) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 8.97 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.18f1 (d29bea25151d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/UnityGames/GameForWork/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2582)
+    Vendor:   NVIDIA
+    VRAM:     8042 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010781 seconds.
+- Loaded All Assemblies, in  0.306 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 225 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.535 seconds
+Domain Reload Profiling: 840ms
+	BeginReloadAssembly (89ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (117ms)
+		LoadAssemblies (89ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (114ms)
+			TypeCache.Refresh (113ms)
+				TypeCache.ScanAssembly (102ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (536ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (483ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (333ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (103ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.486 seconds
+Refreshing native plugins compatible for Editor in 3.06 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.675 seconds
+Domain Reload Profiling: 1160ms
+	BeginReloadAssembly (114ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (306ms)
+		LoadAssemblies (244ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (130ms)
+			TypeCache.Refresh (109ms)
+				TypeCache.ScanAssembly (97ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (676ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (549ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (433ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 2.80 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4081 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 68 unused Assets / (244.9 KB). Loaded Objects now: 4541.
+Memory consumption went from 155.2 MB to 154.9 MB.
+Total: 2.886400 ms (FindLiveObjects: 0.205200 ms CreateObjectMapping: 0.096300 ms MarkObjects: 2.404000 ms  DeleteObjects: 0.179900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.406 seconds
+Refreshing native plugins compatible for Editor in 4.28 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.979 seconds
+Domain Reload Profiling: 1383ms
+	BeginReloadAssembly (140ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (203ms)
+		LoadAssemblies (243ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (980ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (518ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (393ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 4.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4063 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (218.4 KB). Loaded Objects now: 4547.
+Memory consumption went from 151.9 MB to 151.7 MB.
+Total: 3.153300 ms (FindLiveObjects: 0.174800 ms CreateObjectMapping: 0.088600 ms MarkObjects: 2.749000 ms  DeleteObjects: 0.139800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 516922.518610 seconds.
+  path: Assets/Scripts/EffectPlayer/BonusEffect.cs
+  artifactKey: Guid(5a0d339f8d0f73445b5d9cc0876db81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectPlayer/BonusEffect.cs using Guid(5a0d339f8d0f73445b5d9cc0876db81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1e8653eee418c9e06a766a05a80a6c') in 0.002533 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.410 seconds
+Refreshing native plugins compatible for Editor in 4.11 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.992 seconds
+Domain Reload Profiling: 1400ms
+	BeginReloadAssembly (142ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (202ms)
+		LoadAssemblies (258ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (993ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (527ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (33ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (401ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 3.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4065 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (217.1 KB). Loaded Objects now: 4554.
+Memory consumption went from 153.6 MB to 153.4 MB.
+Total: 2.817700 ms (FindLiveObjects: 0.201400 ms CreateObjectMapping: 0.170900 ms MarkObjects: 2.308300 ms  DeleteObjects: 0.136200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.398 seconds
+Refreshing native plugins compatible for Editor in 3.78 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.001 seconds
+Domain Reload Profiling: 1398ms
+	BeginReloadAssembly (134ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (204ms)
+		LoadAssemblies (253ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (8ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1002ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (539ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (411ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 4.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4067 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (217.5 KB). Loaded Objects now: 4559.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 3.250100 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.097100 ms MarkObjects: 2.845700 ms  DeleteObjects: 0.129600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 599.172588 seconds.
+  path: Assets/Scripts/EffectPlayer/BonusPickup.cs
+  artifactKey: Guid(c8e6d04c6881fe440a72bdd8b79c9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EffectPlayer/BonusPickup.cs using Guid(c8e6d04c6881fe440a72bdd8b79c9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d1cdcd8f4795a6042e4e5d33436070') in 0.002671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.391 seconds
+Refreshing native plugins compatible for Editor in 3.02 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.909 seconds
+Domain Reload Profiling: 1298ms
+	BeginReloadAssembly (138ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (182ms)
+		LoadAssemblies (233ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (8ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (910ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (484ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (369ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 3.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4066 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (217.3 KB). Loaded Objects now: 4563.
+Memory consumption went from 157.5 MB to 157.3 MB.
+Total: 2.464800 ms (FindLiveObjects: 0.169000 ms CreateObjectMapping: 0.083500 ms MarkObjects: 2.077100 ms  DeleteObjects: 0.134400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.478 seconds
+Refreshing native plugins compatible for Editor in 3.96 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.024 seconds
+Domain Reload Profiling: 1500ms
+	BeginReloadAssembly (131ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (288ms)
+		LoadAssemblies (256ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (95ms)
+			TypeCache.Refresh (76ms)
+				TypeCache.ScanAssembly (66ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1024ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (561ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (422ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 5.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4085 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (217.3 KB). Loaded Objects now: 4588.
+Memory consumption went from 160.2 MB to 160.0 MB.
+Total: 2.638200 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.089200 ms MarkObjects: 2.221700 ms  DeleteObjects: 0.148000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 187.156488 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumBlueRounded.prefab
+  artifactKey: Guid(c15e3c464c7f440f08fb3b90d3d3dbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumBlueRounded.prefab using Guid(c15e3c464c7f440f08fb3b90d3d3dbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5023306d5c09a2c5e49fcf77b75e8178') in 0.061641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumGray.prefab
+  artifactKey: Guid(c47781539528f40b9930b32cc824d477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumGray.prefab using Guid(c47781539528f40b9930b32cc824d477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b560f245669fa52c14f45ed2f54cfad0') in 0.005297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumPurple.prefab
+  artifactKey: Guid(dcf8fe775fbe949dbbcc34b1d9a3d22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumPurple.prefab using Guid(dcf8fe775fbe949dbbcc34b1d9a3d22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85219dbb82a83923fda326737e7ce22a') in 0.004278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumGreen.prefab
+  artifactKey: Guid(f8099443d9515437485abb39e818663d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumGreen.prefab using Guid(f8099443d9515437485abb39e818663d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10800f9296f35cb8af2b485a9dde98f') in 0.003162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumYellowRounded.prefab
+  artifactKey: Guid(ae13b8a909fd443c08ac7564293682db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Animated/BtnMediumYellowRounded.prefab using Guid(ae13b8a909fd443c08ac7564293682db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93482889b22350ab7f062bb1cad3492') in 0.002823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 3.558532 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumGray.prefab
+  artifactKey: Guid(61dea6122ed1a40c085f8d1d75fb129f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumGray.prefab using Guid(61dea6122ed1a40c085f8d1d75fb129f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee178d5caecfac41e085246291e4c65') in 0.005312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumGreen.prefab
+  artifactKey: Guid(b9e7d15cc8f724b448e7f9d140c5bbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumGreen.prefab using Guid(b9e7d15cc8f724b448e7f9d140c5bbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095de6719ac8395135092cd86aefdcb3') in 0.007033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumPink.prefab
+  artifactKey: Guid(d3d470ddc38b340bab5f92f642b7c617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumPink.prefab using Guid(d3d470ddc38b340bab5f92f642b7c617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c28b7033d0b9eda586fa2e72922f1a') in 0.005504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumRed.prefab
+  artifactKey: Guid(27cbc4805b7da49938a50efd3ef8c4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumRed.prefab using Guid(27cbc4805b7da49938a50efd3ef8c4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7171adc9dc12a9298e4eba387c2e83bd') in 0.003498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumYellow.prefab
+  artifactKey: Guid(a9dbf06758dfb4c7685b8bda95cb0565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumYellow.prefab using Guid(a9dbf06758dfb4c7685b8bda95cb0565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48964c51294c00cd82606df6cb0a5554') in 0.003822 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumPurpleRounded.prefab
+  artifactKey: Guid(b8f547da2719c476b8f6a1ed805dd359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Buttons/Medium Buttons/Normal/BtnMediumPurpleRounded.prefab using Guid(b8f547da2719c476b8f6a1ed805dd359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '696d364bb2c79750b1aeadef95400a88') in 0.005215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 2.265001 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Toggles/TogglePink.prefab
+  artifactKey: Guid(69af525d9e79e45b79fb3c7e543e2ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Toggles/TogglePink.prefab using Guid(69af525d9e79e45b79fb3c7e543e2ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e891dd29421eb1a877ccf1e6aef035') in 0.005723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Toggles/TogglePurple.prefab
+  artifactKey: Guid(677c20774279d4ced952c0c842251b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Toggles/TogglePurple.prefab using Guid(677c20774279d4ced952c0c842251b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f3f5f6a8304d0d5e17e8d0550e3ae2') in 0.002975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Toggles/ToggleRed.prefab
+  artifactKey: Guid(89a71b7c3977849198b28d2d8e704485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Toggles/ToggleRed.prefab using Guid(89a71b7c3977849198b28d2d8e704485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb92fe9e362f39a82f0e277e765077c9') in 0.002007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.463541 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Sliders/SliderPink.prefab
+  artifactKey: Guid(0033c479abba243b68127893eed548ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Sliders/SliderPink.prefab using Guid(0033c479abba243b68127893eed548ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8a912a0c13dd0aff4b5f824c717bcd') in 0.004144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Sliders/SliderRed.prefab
+  artifactKey: Guid(55a086e8917dd4c199b2da7feca73989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Prefabs/UI/Sliders/SliderRed.prefab using Guid(55a086e8917dd4c199b2da7feca73989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494edc9e7c2899e45eb836f417e2ad83') in 0.002399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 11.287507 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_arrow_bottom.png
+  artifactKey: Guid(5e059c57f8bd94d5faa10065d1b7b744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_arrow_bottom.png using Guid(5e059c57f8bd94d5faa10065d1b7b744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e04add98389e0037912893e1947126') in 0.097970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_lock.png
+  artifactKey: Guid(3d53b8c44e8e94a23a65b9b84cc02868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_lock.png using Guid(3d53b8c44e8e94a23a65b9b84cc02868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd050572635b2287bbdfe9024238ed99c') in 0.123867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_mark.png
+  artifactKey: Guid(093cb6bfd1b674114bfc6d5c91955897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_mark.png using Guid(093cb6bfd1b674114bfc6d5c91955897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abad47becf82eae2b46da41dd4ce469') in 0.016143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_diamond.png
+  artifactKey: Guid(ca3b16de0d8464c8598fcfe9e61bf1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_diamond.png using Guid(ca3b16de0d8464c8598fcfe9e61bf1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647833974d24930c5e9a84c58a20eb5c') in 0.015074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_key.png
+  artifactKey: Guid(3c73430da8d9d4a54be146edb61177d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_key.png using Guid(3c73430da8d9d4a54be146edb61177d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e6c7c6e65f75a02f4e0b147ac8e092') in 0.016446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_arrow_right.png
+  artifactKey: Guid(39e7c8d7058f145d2bebeca52005155d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_arrow_right.png using Guid(39e7c8d7058f145d2bebeca52005155d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0489fd41f5f83e5a1b1f147471f754') in 0.018364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_notifications_off.png
+  artifactKey: Guid(e32a190c44d494acd9b6c62cc65c18a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_notifications_off.png using Guid(e32a190c44d494acd9b6c62cc65c18a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997b9583bfa469adb4c7714b4e1560cd') in 0.017396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_mail.png
+  artifactKey: Guid(259c0374e810244a897f39e1bafc9cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_mail.png using Guid(259c0374e810244a897f39e1bafc9cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8190d2ad3506b82a430652afe39fe37') in 0.018379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_leaderboards.png
+  artifactKey: Guid(5b75d505bd24b4a5696a780773ec549c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_leaderboards.png using Guid(5b75d505bd24b4a5696a780773ec549c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e24a6d6210a9df5470cfade640e28fc') in 0.015053 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_map.png
+  artifactKey: Guid(f8e9ccc6f282c4fc980ebc8a9efb9afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_map.png using Guid(f8e9ccc6f282c4fc980ebc8a9efb9afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8c89ff5ed94920b3fdff6730c87e7c') in 0.016629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_like.png
+  artifactKey: Guid(2956a71156b1a49f78e3ad3ac8c8d639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_like.png using Guid(2956a71156b1a49f78e3ad3ac8c8d639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0aa311e563944e8870633b7bec02f1') in 0.015352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.539510 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_restart.png
+  artifactKey: Guid(30c0e8f14f2c74de2b1c91a64b6c8a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_restart.png using Guid(30c0e8f14f2c74de2b1c91a64b6c8a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a6a4d4c3d5e63bfcfbdea4c5341817') in 0.022855 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_share.png
+  artifactKey: Guid(390959a3a23364e2f9414bd733c7029a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_share.png using Guid(390959a3a23364e2f9414bd733c7029a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4dac7c9933e5067163f88dfd34b4073') in 0.017391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_shield.png
+  artifactKey: Guid(cc96023486699437ba764421f2234519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_shield.png using Guid(cc96023486699437ba764421f2234519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a6ac7179aad88a584173d5599703be') in 0.016691 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_social_messenger.png
+  artifactKey: Guid(5e8d4dedaeef441448fb45d0322b92b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_social_messenger.png using Guid(5e8d4dedaeef441448fb45d0322b92b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2138e4a0f7c5be6eb9e5ecad1a7469ed') in 0.016257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_sound_on.png
+  artifactKey: Guid(41c526c6673af4a10a3f33f14e4bd7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_sound_on.png using Guid(41c526c6673af4a10a3f33f14e4bd7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6878bee2c610f0b33e2fa79e9adbb18') in 0.017092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_sound_off.png
+  artifactKey: Guid(7161a27b1ae8243d09711df8c5d6ddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_sound_off.png using Guid(7161a27b1ae8243d09711df8c5d6ddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f56bcaca0e2237c493ff8e6d3d990e') in 0.015814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_twitch.png
+  artifactKey: Guid(2cb84f2527e3247d3a8f9f5a7b63c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_twitch.png using Guid(2cb84f2527e3247d3a8f9f5a7b63c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99daf82334c934ffb6d67a910a5a765') in 0.016047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_sign_left.png
+  artifactKey: Guid(c09453e17b7b04d6e9280d87acb4ec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Basic Icons/512x512/ic_sign_left.png using Guid(c09453e17b7b04d6e9280d87acb4ec41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b76703518c16ca10199258c8d3fbd8e') in 0.016024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.670362 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_chest_brown.png
+  artifactKey: Guid(2018dfbcb3bab4f46a8e10b92c9cfadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_chest_brown.png using Guid(2018dfbcb3bab4f46a8e10b92c9cfadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e782354be4894af6e27b9800baa882') in 0.037026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_cup.png
+  artifactKey: Guid(4882a181d2257463e88176ac24382f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_cup.png using Guid(4882a181d2257463e88176ac24382f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a5ef111f4f5c58bc22d2c7abdbfeea') in 0.031053 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_elixir_blue.png
+  artifactKey: Guid(e0bb8df4125ac4acd946325b2a13346f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_elixir_blue.png using Guid(e0bb8df4125ac4acd946325b2a13346f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7969968196ec774b56a5bdec956b2a') in 0.018926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_crown.png
+  artifactKey: Guid(ee9a305823de34260b5223ac8934cd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_crown.png using Guid(ee9a305823de34260b5223ac8934cd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1827f52eb819010f2521393b98447e') in 0.016091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v1.png
+  artifactKey: Guid(0abdec134578f406ea8e5b73ad101480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v1.png using Guid(0abdec134578f406ea8e5b73ad101480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a289ad57de2b695369b924f3562c4b') in 0.017042 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v2.png
+  artifactKey: Guid(7b918f84214f64c6b9e8f725647fc80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v2.png using Guid(7b918f84214f64c6b9e8f725647fc80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d7681eee13a88b1a30e98b00890114') in 0.016411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_diamonds_pack_v2.png
+  artifactKey: Guid(a6317406602104467bd426edd878b63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_diamonds_pack_v2.png using Guid(a6317406602104467bd426edd878b63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced2e6f118d342f7e8af6c795f57d40a') in 0.016334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v4.png
+  artifactKey: Guid(485010c62b9774cadab2070ba32e7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v4.png using Guid(485010c62b9774cadab2070ba32e7ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eb7ae6f7e4d9245dacf7e0986fd78ec') in 0.017705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_diamond_v2_yellow.png
+  artifactKey: Guid(ef91401acb1bb46e18b34eac4d379381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_diamond_v2_yellow.png using Guid(ef91401acb1bb46e18b34eac4d379381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963266fe41b721204f678ef25c5cb6cd') in 0.016816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v6.png
+  artifactKey: Guid(1f2a6951435294731b43deb2419aaf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v6.png using Guid(1f2a6951435294731b43deb2419aaf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4a94899c16a95872775d9a96a3ca2f') in 0.016359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v5.png
+  artifactKey: Guid(97d0a59d6d3894ce7b7c4c68048a9035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_coin_v5.png using Guid(97d0a59d6d3894ce7b7c4c68048a9035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7855a82ffddcb11b14a7de6a7b6cb78c') in 0.016417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_chest_brown_open.png
+  artifactKey: Guid(6f8c484efc001433aab899d04cd9a189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_chest_brown_open.png using Guid(6f8c484efc001433aab899d04cd9a189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f02e60c540c046417d491a16ba2d1d') in 0.016176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.886845 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_energy_blue.png
+  artifactKey: Guid(a4f1c81d467ce4884be78e619bd8cb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_energy_blue.png using Guid(a4f1c81d467ce4884be78e619bd8cb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789c88a33f0bde5964dee724a1b99943') in 0.026563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gift_green.png
+  artifactKey: Guid(3df1393e4f53440c1a1ab68180bb05bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gift_green.png using Guid(3df1393e4f53440c1a1ab68180bb05bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ce9e3396bf7347eeec10ae09ebc741') in 0.019678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gift_pink.png
+  artifactKey: Guid(f11a0b4304cef4605b2e74267ff4f298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gift_pink.png using Guid(f11a0b4304cef4605b2e74267ff4f298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3389f72649f01227358dcc5c1b3ee7') in 0.018426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_energy_red.png
+  artifactKey: Guid(4cf503a375364470aa57593424bc0582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_energy_red.png using Guid(4cf503a375364470aa57593424bc0582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3f0fdb1f3042dff7b113d60c6ebdc9') in 0.016770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.301245 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gold_v1.png
+  artifactKey: Guid(09fbc13604dd74b6289147ceb2904f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gold_v1.png using Guid(09fbc13604dd74b6289147ceb2904f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dccfd61ff6c930e7c3876cced9e6dfc4') in 0.025257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_level_purple.png
+  artifactKey: Guid(85c1cc9c2792a4221b65ebd52e27025d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_level_purple.png using Guid(85c1cc9c2792a4221b65ebd52e27025d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302e1900e56841851d9b80c90b668e72') in 0.017319 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gold_v2.png
+  artifactKey: Guid(9baa291494ca14067a11b2b06eba36a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_gold_v2.png using Guid(9baa291494ca14067a11b2b06eba36a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3e599a4014a1aef626f2ee50abc31d') in 0.014339 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_level_blue.png
+  artifactKey: Guid(46c4f6a5265224edd82e4d8c735d9d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_level_blue.png using Guid(46c4f6a5265224edd82e4d8c735d9d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4accf644c414eef6c2c56c6ffe62eff2') in 0.015246 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.304231 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_mail_purple.png
+  artifactKey: Guid(08362981e0bfa4b128c94aec1807bdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_mail_purple.png using Guid(08362981e0bfa4b128c94aec1807bdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced0cd82f76237caf5f55b8a915a89a9') in 0.032687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_mail_yellow.png
+  artifactKey: Guid(1f9e1d484edbc47a7a2e240955efcbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_mail_yellow.png using Guid(1f9e1d484edbc47a7a2e240955efcbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28df8feedba77a1b8f9751c80fa0f949') in 0.022200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_mail_red.png
+  artifactKey: Guid(85250a5cd207d4235901cd64b4b5b3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_mail_red.png using Guid(85250a5cd207d4235901cd64b4b5b3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca5e0236076566b6f19e95da4c3babe') in 0.021099 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_map.png
+  artifactKey: Guid(2a27bba947d1e4d07af5fbba7a8fd401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_map.png using Guid(2a27bba947d1e4d07af5fbba7a8fd401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d05d5abd2aef0f8b14bd8c316aa6e12') in 0.025295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 17.270423 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_missions_purple.png
+  artifactKey: Guid(a525464b2c77b43a38e96ce0c6c101b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_missions_purple.png using Guid(a525464b2c77b43a38e96ce0c6c101b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4be3523e350e9f0b83a049c4d1a06df') in 0.070848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_news_purple.png
+  artifactKey: Guid(b814323c55de6485b8285d5d8291e0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_news_purple.png using Guid(b814323c55de6485b8285d5d8291e0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1593c5be1cec400fe6433dbda71a244d') in 0.127107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_news_red.png
+  artifactKey: Guid(15d4d5e0830b349f597d40f34e8729d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_news_red.png using Guid(15d4d5e0830b349f597d40f34e8729d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d52aa1855ea17b0ebf3107f76e7ba89') in 0.017772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_poison_blue.png
+  artifactKey: Guid(6ca5a68508b5a4e6bb4232e4537efe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_poison_blue.png using Guid(6ca5a68508b5a4e6bb4232e4537efe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3485e3d47c92633d13d0cce116c5d67') in 0.015405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.617685 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_poison_purple.png
+  artifactKey: Guid(45fc3501934fd47b29833182c558252b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_poison_purple.png using Guid(45fc3501934fd47b29833182c558252b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e24cfc90dbfabca988db6d0283e8802') in 0.023247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_promo_pink.png
+  artifactKey: Guid(6513187a353164c22b0dc859d939bcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_promo_pink.png using Guid(6513187a353164c22b0dc859d939bcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59949328d523d3f42025757daeea4201') in 0.017749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shop_purple.png
+  artifactKey: Guid(ecf4d30da58f547a6837096fa823628d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shop_purple.png using Guid(ecf4d30da58f547a6837096fa823628d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450f34b44a1b5850b09c5500150c20b4') in 0.017787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shield.png
+  artifactKey: Guid(bf2f2f00deaf54ebf8d5f8f45eed665a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shield.png using Guid(bf2f2f00deaf54ebf8d5f8f45eed665a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7f1a1d043d69355962450ceace4a1b') in 0.018070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shop_pink.png
+  artifactKey: Guid(8c47e622e6f1745cb805b2a232cc64d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shop_pink.png using Guid(8c47e622e6f1745cb805b2a232cc64d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edeac550249f5e5ebf14b80884553d25') in 0.016809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_skull.png
+  artifactKey: Guid(e96de9c8ef7454e50a4c2d350ae7641f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_skull.png using Guid(e96de9c8ef7454e50a4c2d350ae7641f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1cdab99bfb795ee8204f8701135635f') in 0.017318 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shop_green.png
+  artifactKey: Guid(c1d4f2a0698b84b61bb7fafc824e93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_shop_green.png using Guid(c1d4f2a0698b84b61bb7fafc824e93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34f69d60dda21b920563d52beab8063') in 0.016373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_sword.png
+  artifactKey: Guid(1cd073aa4c60240c29a7f943e43787ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_sword.png using Guid(1cd073aa4c60240c29a7f943e43787ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fc399fdcba390bf3cc8d9bf71771d3') in 0.016121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.707944 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_visor_purple.png
+  artifactKey: Guid(2337ac31822b2416a9e16d13961e6a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_visor_purple.png using Guid(2337ac31822b2416a9e16d13961e6a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d84ffe5f52db3b94b41a3933eb76f00') in 0.026458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_visor_yellow.png
+  artifactKey: Guid(369f872c7331a489ea9a03c346ecdec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/512x512/ic_visor_yellow.png using Guid(369f872c7331a489ea9a03c346ecdec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc774e6ea8f6bcab9404a6c7504f1da') in 0.030801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 26.068539 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/128x128/ic_elixir_blue.png
+  artifactKey: Guid(1dffdce279bf1431986543977a8ad64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/128x128/ic_elixir_blue.png using Guid(1dffdce279bf1431986543977a8ad64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c0be68d78b5a0e1fbee1e002f65e7e') in 0.019932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/256x256/ic_elixir_pink.png
+  artifactKey: Guid(f67213252ea8545009d3fbbc351174ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hardartcore/Casual GUI Kit Mobile/Sprites/Icons/Colored Icons/256x256/ic_elixir_pink.png using Guid(f67213252ea8545009d3fbbc351174ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6388875b4dbd48b196f6c3ad59427d') in 0.016460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
